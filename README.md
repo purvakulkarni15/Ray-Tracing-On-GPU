@@ -3,7 +3,7 @@
 ### Libraries
 <pre>
 1. OpenCV - For Image Generation
-<pre>
+</pre>
 
 ### Installation
 
@@ -21,7 +21,7 @@
 
 ### What is Ray Tracing
 
-![Ray Tracing]()
+![Ray Tracing](https://github.com/purvakulkarni15/Ray-Tracing-On-GPU/blob/master/Ray%20Tracing.png)
 
 <pre>
 Ray Tracing is a method of generating photo realistic images of the 3D scenes by tracing the path of light through each pixel in an image 
@@ -51,19 +51,19 @@ mesh (OBJ File).
 
 #### Ray-Plane Intersection
 
-![Ray-Plane Intersection]()
+![Ray-Plane Intersection](https://github.com/purvakulkarni15/Ray-Tracing-On-GPU/blob/master/Ray-Plane%20Intersection.png)
 
 #### Ray-Triangle Intersection
 
-![Ray-Triangle Intersection]()
+![Ray-Triangle Intersection](https://github.com/purvakulkarni15/Ray-Tracing-On-GPU/blob/master/Ray-Triangle%20Intersection.png)
 
 #### Ray-Sphere Intersection
 
-![Ray-Sphere Intersection]()
+![Ray-Sphere Intersection](https://github.com/purvakulkarni15/Ray-Tracing-On-GPU/blob/master/Ray-Sphere%20Intersection.png)
 
 #### Ray-Box Intersection
 
-![Ray-Box Intersection]()
+![Ray-Box Intersection](https://github.com/purvakulkarni15/Ray-Tracing-On-GPU/blob/master/Ray-Box%20Intersection.png)
 
 ### Accelerating Ray Tracing
 
@@ -80,7 +80,7 @@ mesh (OBJ File).
 
 ##### Algorithm for Grid Traversal
 
-![Uniform Grid Traversal]()
+![Uniform Grid Traversal](https://github.com/purvakulkarni15/Ray-Tracing-On-GPU/blob/master/Uniform%20Grid.png)
 
 Fast Voxel Traversal Algorithm proposed by John Amanatides is implemented
 <pre>
@@ -123,8 +123,10 @@ test (voxel ) ;//check  if ( voxel . x , voxel . y , voxel . z ) contains data
 
 ### Results
 
-![Standford Dragon]()
+![Standford Dragon](https://github.com/purvakulkarni15/Ray-Tracing-On-GPU/blob/master/RayTraced_Dragon.jpg)
 
-![Room]()
+![Room](https://github.com/purvakulkarni15/Ray-Tracing-On-GPU/blob/master/Room.jpg)
 
-![Cornel Box]()
+![Cornel Box](https://github.com/purvakulkarni15/Ray-Tracing-On-GPU/blob/master/Cornell_Box.jpg)
+
+![Spheres](https://github.com/purvakulkarni15/Ray-Tracing-On-GPU/blob/master/Spheres.jpg)
