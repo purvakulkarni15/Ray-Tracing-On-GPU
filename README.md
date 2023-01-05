@@ -10,7 +10,3 @@ Features:
 ### Results
 
 ![Stanford Bunny](https://github.com/purvakulkarni15/Ray-Tracing-On-GPU/blob/master/Stanford_Bunny.png)
-
-![Cornell Box](https://github.com/purvakulkarni15/Ray-Tracing-On-GPU/blob/master/Cornell_Box.png)
-
-![Spheres](https://github.com/purvakulkarni15/Ray-Tracing-On-GPU/blob/master/Spheres.png)
